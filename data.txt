@@ -1,0 +1,4 @@
+name	age 	favorite
+a	18	basketball
+b	25	football
+c	55	tennis
